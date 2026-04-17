@@ -11,7 +11,7 @@ This repo has been cleaned up to keep one canonical Next.js setup while you focu
 
 - Next.js 15 + TypeScript + Tailwind
 - Single canonical Next config: `next.config.ts`
-- Build artifacts are gitignored (for example `*.tsbuildinfo`)
+- Build artifacts are git-ignored (for example `*.tsbuildinfo`)
 
 ## Getting started
 
